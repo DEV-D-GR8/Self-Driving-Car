@@ -18,3 +18,6 @@ The second challenege was implementing a good fitness function. It took the most
 # Future
 I will work on a manual mode where the user can race against the AI.
 
+# Video Demonstration
+Watch this video to see the model being trained and then being implemented to drive the car:-
+https://youtu.be/LbtvLXYB938
